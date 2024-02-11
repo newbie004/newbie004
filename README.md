@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a Software Engineer - Backend, graduated from IIIT Allahabad in 2022. 
 
 - My skill set include Software Design and Development, Databases, Data ETL etc.
 - Tech Stack - Ruby on Rails, Spring Boot and Python
